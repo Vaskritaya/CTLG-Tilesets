@@ -1,7 +1,8 @@
 {
   "id": [
     "corpse",
-    "rmi2_corpse"
+    "rmi2_corpse",
+    "corpse_mon_zombie"
   ],
   "fg": "corpse"
 }

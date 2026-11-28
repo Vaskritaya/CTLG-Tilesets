@@ -46,7 +46,10 @@
     "l_lmg_223_kit",
     "mn_classic_kit",
     "mn_ebr_kit",
-    "briefcase_smg"
+    "briefcase_smg",
+    "bow_stabilizer_set",
+    "bow_silencer",
+    "primitive_bow_silencer"
   ],
   "fg": "retool_45"
 }

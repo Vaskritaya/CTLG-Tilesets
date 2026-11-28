@@ -1,1 +1,8 @@
-{"id": ["jumper_cable_heavy", "jumper_cable"], "fg": ["1541_jumper_cable_heavy_0"], "rotates": false, "bg": []}
+{
+	"id": [
+		"jumper_cable_heavy", 
+		"jumper_cable",
+		"electrolysis_kit"
+	], 
+	"fg": "1541_jumper_cable_heavy_0"
+}

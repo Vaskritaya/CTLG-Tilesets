@@ -1,7 +1,10 @@
 {
   "id": [
     "wheel_caster",
-    "wheel_rail_small_pair"
+    "wheel_rail_small_pair",
+    "wheel_caster_large",
+    "wheel_10",
+    "wheel_skateboard"
   ],
   "fg": "wheel_caster"
 }

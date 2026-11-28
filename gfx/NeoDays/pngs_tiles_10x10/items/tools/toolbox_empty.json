@@ -4,7 +4,9 @@
     "toolbox_workshop_empty",
     "rc_car_box",
     "maker_kit_box",
-    "engineering_makerspace_kit"
+    "engineering_makerspace_kit",
+    "robot_kit_box",
+    "stirling_kit_box"
   ],
   "fg": "toolbox_empty"
 }
